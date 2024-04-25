@@ -1,0 +1,10 @@
+{
+    "name": "houss/blog-palestine",
+    "require": {
+        "twbs/bootstrap": "^5.3",
+        "firebase/php-jwt": "^6.10",
+        "yajra/laravel-datatables-oracle": "^11.1",
+        "andcarpi/laravel-popper": "^0.9.4",
+        "components/jquery": "^3.7"
+    }
+}
